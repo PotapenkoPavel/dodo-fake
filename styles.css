@@ -60,6 +60,7 @@ body {
   font-family: 'dodo';
   font-size: 14px;
   transition: border-color 0.25s ease-in-out, color 0.25s ease-in-out;
+  outline: none;
 }
 .sing-in-button:hover {
   border-color: rgb(255, 105, 0);
@@ -126,6 +127,7 @@ body {
   font-size: 14px;
   color: #fff;
   cursor: pointer;
+  outline: none;
   transition: border-color 0.15s ease-in-out, background-color 0.15s ease-in-out;
 }
 
